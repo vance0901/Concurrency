@@ -1,4 +1,4 @@
- * Java并发,详见NOTICE:https://blog.csdn.net/zhuhai0613/article/details/133545621
+ * Java Concurrency并发,详见NOTICE:https://blog.csdn.net/zhuhai0613/article/details/133545621
  
  * 如果报错: SourceSet with name ‘main’ not found,则采取下列方式:
  * 1.先选择合适的as版本，建议：3.5.3
